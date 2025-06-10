@@ -63,10 +63,9 @@ A real-time Markdown editor and previewer built with React, Tailwind CSS, and De
 
 ## Technologies Used
 - React + TypeScript
-- Tailwind CSS (with Typography plugin)
-- Dexie.js (IndexedDB abstraction)
-- remark + unified (Markdown parsing and HTML generation)
-- Vite (build tool)
+- Tailwind CSS 
+- Dexie.js (IndexedDB)
+- remark + unified 
 
 ## Getting Started
 
