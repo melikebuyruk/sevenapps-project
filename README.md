@@ -34,6 +34,9 @@ A real-time Markdown editor and previewer built with React, Tailwind CSS, and De
 - Preview pane uses `aria-live="polite"` to notify screen readers of content changes.
 - Passes basic Lighthouse accessibility checks.
 
+  ![resim](https://github.com/user-attachments/assets/3239e1c0-7dd1-4f00-a9dd-3e0793616d5d)
+
+
 ## Supported Markdown Features
 - GitHub-Flavored Markdown (GFM)
 
