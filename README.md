@@ -54,14 +54,6 @@ A real-time Markdown editor and previewer built with React, Tailwind CSS, and De
   
   ![resim](https://github.com/user-attachments/assets/22549eef-460d-4e8b-a896-86daec9f3fe7)
   ![resim](https://github.com/user-attachments/assets/91d8d532-4313-4ba1-84fa-d6e3a1d4b491)
-
-
-- Footnotes
-
-  ![resim](https://github.com/user-attachments/assets/f928905a-2b0e-4cd9-97e1-ae36fa2c2c6b)
-  ![resim](https://github.com/user-attachments/assets/d44fd342-0a60-4df4-97f6-434e5f98a9c8)
-
-
   
 
 ## Technologies Used
