@@ -53,7 +53,7 @@ const Preview = forwardRef<HTMLDivElement, PreviewProps>(
         role="region"
         aria-label="Preview of the rendered HTML"
         aria-live="polite"
-        className="p-4 overflow-auto prose prose-ul:list-disc prose-li:pl-4 dark:prose-invert max-w-none"
+        className="p-4 overflow-auto prose prose-ul:list-disc prose-li:pl-4 dark:prose-invert max-w-none bg-white dark:bg-gray-900"
         dangerouslySetInnerHTML={{ __html: html }}
       />
     );
